@@ -1,29 +1,114 @@
 {
-	"login": [{
-			"id": 1,
-			"title": "Post 1"
+	"nxtgen_update_profile": {
+		"status": 1,
+		"data": {
+			"uid": "879784283U",
+			"fnm": "abhishek",
+			"facebook_uid": "",
+			"email": "abhi3467@gmail.com",
+			"sex": "",
+			"dob": "17/12/2002",
+			"fl": 0,
+			"social_link": "http://facebook.com",
+			"user_bio": "hi all",
+			"display_seo_key": "abhishek2",
+			"img": "http://a10.gaanacdn.com/images/users/51/crop_110x110_1592555213_142271051.jpg",
+			"email_status": 1,
+			"mobile_number": "",
+			"mobile_country_prefix": ""
 		},
-		{
-			"id": 2,
-			"title": "Post 2"
+		"uts": 1
+	},
+	"nxtgen_authenticate": {
+		"status": 1,
+		"token": "0482ed4f8c8b123707069fb8c1820d59",
+		"newuser": 0,
+		"userver": 1,
+		"gaana_plus_info": {
+			"is_renewal": false,
+			"show_reward_screen": 0,
+			"is_simpl": "",
+			"subscribedOn": null,
+			"validupto": null,
+			"validity_with_grace": 0,
+			"grace_msg": "",
+			"ppd_count": -1,
+			"payment_mode_id": 0,
+			"is_family_owner": 0,
+			"app_notified": 1,
+			"app_notify_text": "",
+			"productInfo": null,
+			"product_properties": {
+				"product_type_id": 0,
+				"display_ads": "Y",
+				"interstitials_ads": "Y",
+				"audio_ads": "Y",
+				"download_enable": "N",
+				"smart_download": 0,
+				"premium_content": {
+					"is_pc_enable": 0,
+					"pc_threshold_limit": 0
+				},
+				"product_type_name": "Free User",
+				"curated_download": "0",
+				"is_device_linking_enabled": "0",
+				"devlimit": "0",
+				"hdstream": "N",
+				"prodtype": "NA",
+				"songlimit": "0"
+			},
+			"educate_notify": "0",
+			"ac": "free",
+			"gpmsg": "Not Gaana+ user",
+			"subtype": "NA"
 		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"editprofile": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
+		"user_info": {
+			"uid": "879784283U",
+			"fnm": "abhishek",
+			"email": "bikrantbikram@gmail.com",
+			"sex": "",
+			"dob": "17/12/2002",
+			"social_link": "http://facebook.com",
+			"user_bio": "hi all",
+			"display_seo_key": "abhishek2",
+			"img": "http://a10.gaanacdn.com/images/users/51/crop_110x110_1592555213_142271051.jpg",
+			"email_status": 1,
+			"mobile_number": "",
+			"mobile_country_prefix": ""
 		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile":{"status":1,"user_token_status":0,"user-token-status":0,"user_coins":0,"device_coins":0,"notif_monthly_cap":15,"notif_weekly_cap":10,"notif_per_session_cap":5,"missions":[{"mission_id":1,"mission_name":"Play song in a session","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_51_1584508386.png","notif_low_cap":2,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":10,"notifications":[{"type":0,"value":4,"text":"You are 1 song away from winning a bonus","sub_text":"Play more songs NOW!"},{"type":1,"value":5,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":1,"level_order":1,"level_name":"Play 5 song in a session","level_desc":"Play your first song and receive 5 coins","level_artwork":"","completion_count":5,"is_completed":0},{"coins":20,"notifications":[{"type":0,"value":5,"text":"You are 5 songs away from winning a bonus","sub_text":"Play more songs NOW!"},{"type":0,"value":8,"text":"You are 2 songs away from winning a bonus","sub_text":"Play more songs NOW!"},{"type":1,"value":10,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":2,"level_order":2,"level_name":"Play 10 song in a session","level_desc":"Play 10 songs & receive 20 coins.","level_artwork":"","completion_count":10,"is_completed":0}]},{"mission_id":2,"mission_name":"Play song","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_51_1584508441.png","notif_low_cap":3,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":5,"notifications":[{"type":1,"value":1,"text":"Heading text here","sub_text":"Sub text here"},{"type":0,"value":1,"text":"Heading text here","sub_text":"Sub text here"}],"level_id":3,"level_order":1,"level_name":"Play song","level_desc":"Play your first song & receive 5 coins.","level_artwork":"","completion_count":2147483647,"is_completed":0}]},{"mission_id":3,"mission_name":"Favorites","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_54_1584508524.png","notif_low_cap":3,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":50,"notifications":[{"type":1,"value":1,"text":"You have unlocked the Favorites mission!","sub_text":"Add 4 more favorites to win bonus!"},{"type":0,"value":4,"text":"You are 1 Favorite away from winning a bonus","sub_text":"Add to Favorites NOW!"},{"type":1,"value":5,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":4,"level_order":1,"level_name":"Favorite 5 songs","level_desc":"Favourite any 5 songs you like and earn 50 coins.","level_artwork":"","completion_count":5,"is_completed":0},{"coins":50,"notifications":[{"type":1,"value":1,"text":"You have unlocked the 10 Favorites mission!","sub_text":"Add 9 more favorites to win bonus!"},{"type":0,"value":8,"text":"You are 2 Favorites away from winning a bonus","sub_text":"Add to favorites NOW!"},{"type":1,"value":10,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":5,"level_order":2,"level_name":"Favorite 10 songs","level_desc":"Favourite any 10 songs you like and earn 50 coins.","level_artwork":"","completion_count":10,"is_completed":0},{"coins":50,"notifications":[{"type":0,"value":21,"text":"You are 4 Favorites away from winning a bonus","sub_text":"Add 4 more favorites to win bonus!"},{"type":0,"value":25,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":6,"level_order":3,"level_name":"Favorite 25 songs","level_desc":"Favourite any 25 songs you like and earn 50 coins.","level_artwork":"","completion_count":25,"is_completed":0},{"coins":50,"notifications":[{"type":0,"value":41,"text":"You are 9 Favorites away from winning a bonus","sub_text":"Add to Favorites NOW!"},{"type":1,"value":50,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":7,"level_order":4,"level_name":"Favorite 50 songs","level_desc":"Favourite any 50 songs you like and earn 50 coins.","level_artwork":"","completion_count":50,"is_completed":0}]},{"mission_id":4,"mission_name":"Create Playlist","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_65_1584508611.png","notif_low_cap":3,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":50,"notifications":[{"type":1,"value":1,"text":"You have unlocked the 5 Playlists mission!","sub_text":"Create 5 Playlists to win BONUS!"},{"type":0,"value":4,"text":"You are 1 Playlist away from winning a bonus","sub_text":"Create a Playlist to win BONUS!"},{"type":1,"value":5,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":8,"level_order":1,"level_name":"5 playlists created","level_desc":"Create 5 collection of your favourite songs & earn 50 coins","level_artwork":"","completion_count":5,"is_completed":0},{"coins":50,"notifications":[{"type":0,"value":8,"text":"You are 2 Playlists away from winning a bonus","sub_text":"Create Playlists NOW!"},{"type":1,"value":10,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":9,"level_order":2,"level_name":"10 playlists created","level_desc":"Create 10 collection of your favourite songs & earn 50 coins","level_artwork":"","completion_count":10,"is_completed":0},{"coins":50,"notifications":[{"type":0,"value":21,"text":"You are 4 Playlists away from winning a bonus","sub_text":"Create Playlists NOW!"},{"type":1,"value":25,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":10,"level_order":3,"level_name":"25 playlists created","level_desc":"Create 25 collection of your favourite songs & earn 50 coins","level_artwork":"","completion_count":25,"is_completed":0},{"coins":50,"notifications":[{"type":0,"value":41,"text":"You are 9 Playlists away from winning a bonus","sub_text":"Create Playlists NOW!"},{"type":1,"value":50,"text":"Congratulations! You have completed this mission!","sub_text":"Redeem your coins NOW!"}],"level_id":11,"level_order":4,"level_name":"50 playlists created","level_desc":"Create 50 collection of your favourite songs & earn 50 coins","level_artwork":"","completion_count":50,"is_completed":0}]},{"mission_id":5,"mission_name":"Resgistration","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_18_1584520714.png","notif_low_cap":1,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":50,"notifications":[{"type":1,"value":-1,"text":"Success","sub_text":""},{"type":0,"value":1,"text":"Incentivise","sub_text":""}],"level_id":19,"level_order":1,"level_name":"Account created","level_desc":"Sign Up & receive 50 coins for being a part of our family","level_artwork":"","completion_count":1,"is_completed":0}]},{"mission_id":6,"mission_name":"Visits - Daily Streak","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_69_copy_1584508746.png","notif_low_cap":3,"notif_high_cap":1,"resettable":1,"reset_threshold":4,"levels":[{"coins":20,"level_id":12,"level_order":1,"level_name":"Day 1 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":20,"notifications":[{"type":0,"value":3,"text":"First","sub_text":""}],"level_id":13,"level_order":2,"level_name":"Day 2 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":20,"level_id":14,"level_order":3,"level_name":"Day 3 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":30,"level_id":15,"level_order":4,"level_name":"Day 4 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":30,"notifications":[{"type":0,"value":3,"text":"5th","sub_text":""}],"level_id":16,"level_order":5,"level_name":"Day 5 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":30,"level_id":17,"level_order":6,"level_name":"Day 6 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0},{"coins":50,"notifications":[{"type":1,"value":-1,"text":"7th","sub_text":""}],"level_id":18,"level_order":7,"level_name":"Day 7 Visit","level_desc":"","level_artwork":"","completion_count":1,"is_completed":0}]},{"mission_id":7,"mission_name":"Welcome","mission_artwork":"http://a10.gaanacdn.com/images/coins/missions/group_64_1584508682.png","notif_low_cap":1,"notif_high_cap":1,"resettable":0,"reset_threshold":0,"levels":[{"coins":100,"level_id":20,"level_order":1,"level_name":"Welcome","level_desc":"A very welcome from the entire Gaana Family.","level_artwork":"","completion_count":1,"is_completed":0}]}]}
-		
-	
+		"is_social_active": 0,
+		"is_fb_mapped": 0,
+		"follow_id": "fd214aa4d5cf73137b63775137675916",
+		"loginmode": "gaana",
+		"callType": "login",
+		"promo": 0,
+		"promourl": "",
+		"refeligible": 0,
+		"influencer_id": "1",
+		"uts": 1
+	},
+	"nxtgen_profile": {
+		"status": 1,
+		"data": {
+			"uid": "879784283U",
+			"fnm": "abhishek",
+			"facebook_uid": "",
+			"email": "bikrantbikram@gmail.com",
+			"sex": "",
+			"dob": "17/12/2002",
+			"fl": 0,
+			"social_link": "http://facebook.com",
+			"user_bio": "hi all",
+			"display_seo_key": "abhishek2",
+			"img": "http://a10.gaanacdn.com/images/users/51/crop_110x110_1592555213_142271051.jpg",
+			"artist": "0",
+			"lvs": 0,
+			"artist_seokey": "",
+			"influencer_id": "1"
+		},
+		"uts": 1
+	}
+
+
+
 }
